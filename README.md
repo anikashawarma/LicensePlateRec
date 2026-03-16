@@ -4,7 +4,8 @@ Automatic License Plate Recognition (ALPR) – Final Project
 This project implements an end-to-end Automatic License Plate Recognition (ALPR) system using Computer Vision and Deep Learning.
 The pipeline detects license plates from video streams, tracks them across frames, recognizes alphanumeric characters using OCR, and evaluates performance using real-time metrics.
 
-
+Drive: https://drive.google.com/drive/folders/1nOkDD0SWrGEKpnVooKWPAqmd61PVWrEr?usp=sharing
+Use this link to access the yaml files, dataset
 
 Performance Evaluation
 
